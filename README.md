@@ -2,7 +2,7 @@
 
 🎓 **Sobre mí**
 
-¡Hola! Soy un desarrollador en formación de 19 años, actualmente estudiante de la carrera de Desarrollo de Software Multiplataforma en la Universidad Tecnológica Emiliano Zapata (UTEZ).
+¡Hola! Soy un desarrollador en formación de 21 años, actualmente estudiante de la carrera de Desarrollo de Software Multiplataforma en la Universidad Tecnológica Emiliano Zapata (UTEZ).
 
 📌 Me especializo en programación con Java y C, lenguajes que me han permitido comprender tanto el desarrollo orientado a objetos como la programación de bajo nivel. Me interesa construir software eficiente, estructurado y funcional, siempre buscando aprender nuevas herramientas y buenas prácticas.
 
